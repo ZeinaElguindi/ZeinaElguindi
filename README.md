@@ -1,4 +1,6 @@
-### Hi there 👋
+Management Engineering student at the University of Waterloo. Interested in operations management and system optimization.
+
+To contact me, email me at [zelguind@uwaterloo.ca](mailto:zelguind@uwaterloo.ca) or on [LinkedIn](https://www.linkedin.com/in/zeina-elguindi/).
 
 <!--
 **ZeinaElguindi/ZeinaElguindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
